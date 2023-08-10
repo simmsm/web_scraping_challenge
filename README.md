@@ -2,9 +2,8 @@
 Module 11 activity, using web scraping to find and extract data from a website.
 
 
-Requirements
-Scrape Titles and Preview Text from Mars News
-Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
+This challenge scrapes titles and previews text from Mars News using
+automated browsing (with Splinter) to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
 The titles and preview text of the news articles were scraped and extracted.
 The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries.
 
