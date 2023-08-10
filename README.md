@@ -13,6 +13,7 @@ The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter 
 The columns have the correct headings and data types. 
 The data was analyzed to answer the following questions: 
 How many months exist on Mars? 
+![Screenshot](screenshots/screenshot2.png)
 How many Martian days' worth of data are there? 
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer
 Which month, on average, has the lowest temperature? The highest? 
