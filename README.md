@@ -11,12 +11,17 @@ The scraped information was stored in the specified Python data structure—spec
 Part 2: Scrape and Analyze Mars Weather Data
 The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. 
 The columns have the correct headings and data types. 
+![Dataframe](screenshot3.png)
+
 The data was analyzed to answer the following questions: 
 How many months exist on Mars? 
-![Screenshot](screenshots/screenshot2.png)
 How many Martian days' worth of data are there? 
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer
 Which month, on average, has the lowest temperature? The highest? 
+![Temps](screenshot2.png)
+
 Which month, on average, has the lowest atmospheric pressure? The highest? 
+![Pressure](screenshot1.png)
+
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. 
 The DataFrame was exported into a CSV file. 
